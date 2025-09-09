@@ -45,17 +45,17 @@ With a strong foundation in **frontend development** and a deep interest in **We
 
 ## 📈 GitHub Stats
 
-![Emon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Emon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=slpngdmn&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=slpngdmn&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Connect With Me
 
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 🐦 Twitter/X: [twitter.com/yourhandle](https://twitter.com/yourhandle)
-- 📧 Email: youremail@example.com
+- 🌐 Portfolio: [linktr.ee/slpngdmn](https://linktr.ee/slpngdmn)
+- 💼 LinkedIn: [linkedin.com/in/slpngdmn](https://linkedin.com/in/slpngdmn)
+- 🐦 Twitter/X: [twitter.com/slpngdmn1](https://twitter.com/slpngdmn1)
+- 📧 Email: slpngdmn@gmail.com
 
 ---
 
