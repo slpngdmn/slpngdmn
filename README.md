@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Saroar Hossain Emon
 
-🚀 Passionate **Frontend Developer** | 💻 **Blockchain Enthusiast** | 🐍 **Python Programmer**
+🚀 Passionate **FullStack Blockchain Developer** | 💻 **Blockchain Enthusiast** | 🐍 **Python Programmer**
 
 ---
 
