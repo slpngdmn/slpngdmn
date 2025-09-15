@@ -51,11 +51,11 @@ With a strong foundation in **frontend development** and a deep interest in **We
 
 ## 📈 GitHub Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 width=320 align="center" src="https://github-readme-stats.vercel.app/api?username=slpngdmn&show_icons=true&layout=compact&theme=dark" />
+<a href="https://github.com/slpngdmn">
+  <img height=200 width=320 align="center" src="https://github-readme-stats.vercel.app/api?username=slpngdmn&show_icons=true&theme=dark&langs_count=8" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 width=320 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slpngdmn&layout=compact&theme=dark" />
+<a href="https://github.com/slpngdmn">
+  <img height=200 width=320 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slpngdmn&theme=dark&langs_count=8" />
 </a>
 
 ---
