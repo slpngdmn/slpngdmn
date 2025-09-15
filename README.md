@@ -55,7 +55,7 @@ With a strong foundation in **frontend development** and a deep interest in **We
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=slpngdmn&show_icons=true&theme=dark&langs_count=8&card_width=320" />
 </a>
 <a href="https://github.com/slpngdmn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slpngdmn&theme=dark&langs_count=8card_width=320" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slpngdmn&theme=dark&langs_count=8&card_width=320" />
 </a>
 
 ---
