@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Saroar Hossain Emon
 
-🚀 Passionate **Frontend Developer** | 💻 **Blockchain Enthusiast** | 🐍 **Python Programmer**
+🚀 Passionate **FullStack Blockchain Developer** | 💻 **Blockchain Enthusiast**
 
 ---
 
@@ -45,17 +45,17 @@ With a strong foundation in **frontend development** and a deep interest in **We
 
 ## 📈 GitHub Stats
 
-![Emon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=slpngdmn&show_icons=true&theme=radical)  
+![Emon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=slpngdmn&show_icons=true&layout=compact&theme=dark)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=slpngdmn&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Connect With Me
 
-- 🌐 Portfolio: [linktr.ee/slpngdmn](https://linktr.ee/slpngdmn)
-- 💼 LinkedIn: [linkedin.com/in/slpngdmn](https://linkedin.com/in/slpngdmn)
-- 🐦 Twitter/X: [twitter.com/slpngdmn1](https://twitter.com/slpngdmn1)
-- 📧 Email: slpngdmn@gmail.com
+- 🌐 Portfolio: [linktr.ee](https://linktr.ee/slpngdmn)
+- 💼 LinkedIn: [linkedin.com](https://linkedin.com/in/slpngdmn)
+- 🐦 Twitter/X: [twitter.com](https://twitter.com/slpngdmn1)
+- 📧 Email: [Mail]slpngdmn@gmail.com
 
 ---
 
