@@ -45,12 +45,6 @@ With a strong foundation in **frontend development** and a deep interest in **We
 
 ## 📈 GitHub Stats
 
-![Emon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=slpngdmn&show_icons=true&layout=compact&theme=dark) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=slpngdmn&layout=compact&theme=dark)
-
----
-
-## 📈 GitHub Stats
-
 <a href="https://github.com/slpngdmn">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=slpngdmn&show_icons=true&theme=dark&langs_count=8&card_width=320" />
 </a>
