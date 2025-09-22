@@ -63,5 +63,5 @@ With a strong foundation in **frontend development** and a deep interest in **We
 
 ---
 
-16/09/2025
+22/09/2025
 ✨ _Always curious, always building, always learning._
