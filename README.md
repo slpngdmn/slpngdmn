@@ -67,4 +67,4 @@ With a strong foundation in **frontend development** and a deep interest in **We
 
 ---
 
-05/10/2025
+27/10/2025
